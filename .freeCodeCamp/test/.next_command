@@ -35,3 +35,32 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 git init
 git status
 git add .
+git commit -m 'save database dump'
+git remote add origin git@github.com:bisky0-0/Celestial-Bodies-Database.git
+git push
+git remote remove origin
+git remote add origin git@github.com:bisky0-0/Celestial-Bodies-Database.git
+git branch -M main
+git push -u origin main
+git branch
+git push
+git remote -v
+git remote add origin githttps://github.com:bisky0-0/Celestial-Bodies-Database.git
+git remote remove origin
+git remote add origin https://github.com:bisky0-0/Celestial-Bodies-Database.git
+git push -u origin main
+git remote -v
+git remote remove origin
+git branch -v
+git remote -v
+git remote add origin https://github.com/bisky0-0/Celestial-Bodies-Database.git
+git remote -v
+git push -u origin main
+git remote remove origin
+git init
+__vsc_prompt_cmd_original
+git remote add origin https://github.com/bisky0-0/Celestial-Bodies-Database.git
+git branch -M main
+git push origin main
+git push origin main
+git add .
